@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Водный напоминатель</string>
+    <string name="pref_notification_message_value">Пришло время выпить воду…</string>
+    <string name="add_info_text">Пожалуйста, предоставьте дополнительную информацию о вас…!!</string>
+    <string name="str_continue">Продолжить</string>
+    <string name="enter_your_name_hint">Введите имя</string>
+    <string name="age_hint">Введите возраст</string>
+    <string name="weight_hint">Введите вес в кг</string>
+    <string name="custom_intake_hint">Введите цель употребления воды в мл</string>
+    <string name="workout_hint">Ежедневное время тренировки в минутах</string>
+    <string name="wakeup_hint">Время подъема</string>
+    <string name="sleeping_hint">Время сна</string>
+    <string name="tagline_text">Давайте придерживаться к увлажненности…</string>
+    <string name="get_started">Пропустить</string>
+    <string name="edit_info_text">Изменить информацию</string>
+    <string name="update">Обновить</string>
+    <string name="notif_setting_header">Настройки уведомления</string>
+    <string name="notif_messsage_hint">Текст уведомления</string>
+    <string name="notif_tone_hint">Рингтон уведомления</string>
+    <string name="notif_freq_hint">Время уведомления</string>
+    <string name="walkthrough_text_one">Вода – это жизнь. Она составляет около 60% массы тела человека и необходима для всех его функций.
+    </string>
+    <string name="walkthough_text_two">Отсутствие воды может привести к обезвоживанию. Даже мягкое обезвоживание может привести вас к усталости.
+    </string>
+    <string name="walkthrough_text_three">Кадждая клетка, ткань и орган в вашем организме нуждаются в воде для правильной работы.
+    </string>
+</resources>
